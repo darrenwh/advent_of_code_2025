@@ -1,0 +1,14 @@
+{
+  "name": "aoc-ts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "day": "tsx src/day01.ts",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "tsx": "^3.0.0",
+    "vitest": "^1.0.0",
+    "typescript": "^5.0.0"
+  }
+}
