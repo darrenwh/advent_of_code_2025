@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "day": "tsx src/day01.ts",
+    "day": "tsx src/day02.ts",
     "test": "vitest"
   },
   "devDependencies": {
